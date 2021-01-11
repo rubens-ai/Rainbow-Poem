@@ -5,4 +5,4 @@ yellow
 green
 red
 blue
-colors of the universe
+
