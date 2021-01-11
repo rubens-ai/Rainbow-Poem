@@ -1,5 +1,7 @@
 The rainbow is 
 purple
 orange
+yellow
+green
 red
 colors of the universe
