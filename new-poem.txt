@@ -4,6 +4,7 @@ indigo
 purple
 orange
 yellow
+earth day 
 green
 red
 blue
