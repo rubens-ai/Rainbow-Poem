@@ -4,6 +4,7 @@ indigo
 purple
 orange
 yellow
+earth day 
 green
 red
 blue
@@ -11,4 +12,8 @@ Rain in the sky
 see the unicorn
 on the ground
 and in the sky
+hello friends
+hello2
 
+hello3
+heeellloooo
